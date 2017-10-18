@@ -1,6 +1,0 @@
-framework module LeanplumUIEditor {
-  umbrella header "LeanplumUIEditor.h"
-
-  export *
-  module * { export * }
-}
